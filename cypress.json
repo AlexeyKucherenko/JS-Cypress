@@ -1,5 +1,6 @@
 {
   "projectId": "33e2a8",
   "baseUrl": "https://rozetka.com.ua/",
-  "waitForAnimations": true
+  "waitForAnimations": true,
+  "video": false
 }
