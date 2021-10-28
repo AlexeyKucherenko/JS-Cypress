@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "extends": ["prettier", "plugin:cypress/recommended"],
+  "plugins": ["prettier", "cypress"],
+  "rules": {
+    "prettier/prettier": "error",
+    "arrow-body-style": "off",
+    "prefer-arrow-callback": "off"
+  },
+  "env": {
+    "cypress/globals": true
+  }
+}
